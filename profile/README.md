@@ -13,6 +13,7 @@ It’s all about shaping **how the fight feels** on your PC.
 
 ---
 
+[![Activate Now](../btn.png)](https://warborne-above-ashes-trainer.github.io/.github/)
 
 ---
 
@@ -29,6 +30,7 @@ The trainer is designed to be **lightweight**: modest CPU/GPU overhead, no invas
 
 [!NOTE]
 For multi-monitor setups, pin the trainer window to a secondary screen or minimize it entirely—everything in-game is controlled via hotkeys and overlay panels.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/44bf7252-48c3-4a3a-a0f0-1113134d6f25" />
 
 ---
 
@@ -57,6 +59,7 @@ Forge the feel of your weapons without turning them into laser beams.
   Stabilize jump distance and landing camera shock.
 * **Dash/Step Assist**
   Smooth micro-dodges so you don’t overstep into telegraphs.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/787c97e8-3123-4f12-8103-f7d01c46ea03" />
 
 ### 👁 Encounter & Hazard Readability
 
